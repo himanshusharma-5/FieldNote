@@ -1,0 +1,3 @@
+npm.cmd install
+$env:API_PORT = "8788"
+npm.cmd run dev
